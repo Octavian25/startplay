@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950765449414",
+    "project_id": "startplay",
+    "storage_bucket": "startplay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950765449414:android:260be8f01608dfed5b67c7",
+        "android_client_info": {
+          "package_name": "com.example.startplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950765449414-ipjoua4788k2on1s55jaj0h0vi66n463.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0NOrjkqYwkMjbjFkEfUOjBl3Oawz9H98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950765449414-ipjoua4788k2on1s55jaj0h0vi66n463.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
